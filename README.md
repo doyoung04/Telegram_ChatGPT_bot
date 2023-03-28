@@ -2,6 +2,7 @@
 
 ## Requirement
 openai
+
 python-telegram-bot 13.7
 
 ## How to use
